@@ -1,14 +1,5 @@
 # Sneakers
 
-[![Build Status](https://travis-ci.org/jondot/sneakers.svg?branch=master)](https://travis-ci.org/jondot/sneakers)
-
-```
-      __
-  ,--'  >
-  `=====
-
-```
-
 A high-performance RabbitMQ background processing framework for
 Ruby.
 
@@ -191,11 +182,3 @@ environment needed locally on your development box.
 # Contributing
 
 Fork, implement, add tests, pull request, get my everlasting thanks and a respectable place here :).
-
-### Thanks:
-
-To all Sneakers [Contributors](https://github.com/jondot/sneakers/graphs/contributors) - you make this happen, thanks!
-
-# Copyright
-
-Copyright (c) 2015-2018 [Dotan Nahum](http://gplus.to/dotan) [@jondot](http://twitter.com/jondot). See [LICENSE](LICENSE.txt) for further details.
